@@ -166,9 +166,10 @@ aside a {
 }
 
 aside a:hover {
-    color: #417921;
-    background-color: #deffce;
+    color: #335f19;
+    background-color: #aeee91;
     text-decoration: none;
+    border-radius: 4px;
 }
 
 
